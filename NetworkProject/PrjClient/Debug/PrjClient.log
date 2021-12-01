@@ -1,0 +1,15 @@
+﻿  PrjClient.cpp
+C:\Users\als57\Desktop\PrjClient\PrjClient.cpp(36,7): warning C4200: 비표준 확장이 사용됨: 구조체/공용 구조체의 배열 크기가 0입니다.
+C:\Users\als57\Desktop\PrjClient\PrjClient.cpp(36,7): message : 이 멤버는 기본값으로 설정된 생성자 또는 복사/이동 대입 연산자에서 무시됩니다.
+C:\Users\als57\Desktop\PrjClient\PrjClient.cpp(312,32): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\als57\Desktop\PrjClient\PrjClient.cpp(327,3): warning C4996: 'WSAStringToAddressA': Use WSAStringToAddressW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\als57\Desktop\PrjClient\PrjClient.cpp(608,10): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\als57\Desktop\PrjClient\PrjClient.cpp(609,10): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\als57\Desktop\PrjClient\PrjClient.cpp(620,51): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\als57\Desktop\PrjClient\PrjClient.cpp(622,25): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\als57\Desktop\PrjClient\PrjClient.cpp(623,28): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\als57\Desktop\PrjClient\PrjClient.cpp(628,61): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\als57\Desktop\PrjClient\PrjClient.cpp(630,25): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\als57\Desktop\PrjClient\PrjClient.cpp(631,28): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\als57\Desktop\PrjClient\PrjClient.cpp(672,2): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  PrjClient.vcxproj -> C:\Users\als57\Desktop\PrjClient\Debug\PrjClient.exe
